@@ -1,0 +1,2 @@
+# furaddecdtion-django
+self project
